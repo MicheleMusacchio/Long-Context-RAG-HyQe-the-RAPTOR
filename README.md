@@ -1,2 +1,2 @@
-# Long-Context-RAG-HyQe-the-RAPTOR
+# LongContextRAG: HyQe the RAPTOR
 The code will be available soon
